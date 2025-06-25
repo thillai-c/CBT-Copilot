@@ -60,6 +60,20 @@ response = generate_cbt_response(prompt)
 print(response)
 ```
 
+### Web Interface with Streamlit
+
+For an interactive web interface, you can use the included Streamlit app:
+
+```bash
+# Install additional dependencies
+pip install streamlit
+
+# Run the web interface
+streamlit run app.py
+```
+
+This will launch a user-friendly web interface where you can have conversations with CBT-Copilot through your browser.
+
 ### Using with vLLM (Recommended for Production)
 
 ```python
