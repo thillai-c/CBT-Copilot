@@ -260,7 +260,7 @@ def main():
     <div style="text-align: center; color: #666; font-size: 0.8em;">
         <p>🔒 Your conversations are private and not stored permanently. 
         This session will reset when you refresh the page.</p>
-        <p>Built with ❤️ using Streamlit and Transformers</p>
+        <p>Built with ❤️ by ThillaiC </p>
     </div>
     """, unsafe_allow_html=True)
 
