@@ -74,6 +74,14 @@ streamlit run app.py
 
 This will launch a user-friendly web interface where you can have conversations with CBT-Copilot through your browser.
 
+**Screenshot – Example Question:**
+
+![Streamlit Question Screenshot](question.png)
+
+**Screenshot – Example Response:**
+
+![Streamlit Response Screenshot](response.png)
+
 ### Using with vLLM (Recommended for Production)
 
 ```python
