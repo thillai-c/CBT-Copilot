@@ -76,11 +76,11 @@ This will launch a user-friendly web interface where you can have conversations 
 
 **Screenshot – Example Question:**
 
-![Streamlit Question Screenshot](question.png)
+![Streamlit Question Screenshot](images/question.png)
 
 **Screenshot – Example Response:**
 
-![Streamlit Response Screenshot](response.png)
+![Streamlit Response Screenshot](images/response.png)
 
 ### Using with vLLM (Recommended for Production)
 
